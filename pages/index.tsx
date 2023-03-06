@@ -8,6 +8,7 @@ export default function Home() {
   return (
     <MainLayout>
       <h1 className={ inter.className }>Estas Navegando la pagina Home</h1>
+      <p>Test</p>
     </MainLayout>
   )
 }
